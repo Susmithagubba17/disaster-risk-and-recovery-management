@@ -1,20 +1,37 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Disaster Risk and Recovery Management System
 
-# Run and deploy your AI Studio app
+## Project Overview
+This project is a web-based disaster management system developed using React, Node.js, Express.js, and MongoDB.
 
-This contains everything you need to run your app locally.
+The system helps track, predict, and support vulnerable communities before, during, and after disasters.
 
-View your app in AI Studio: https://ai.studio/apps/bf9028b0-ddd4-4020-a8b8-00c466313519
+## Features
+- User, Admin, and Rescue Team roles
+- Disaster risk prediction
+- Rescue team allocation
+- Resource management
+- SOS emergency alerts
+- Missing person support
+- Safe zone recommendations
+- MongoDB database integration
 
-## Run Locally
+## Technologies Used
+### Frontend
+- React.js
+- HTML
+- CSS
+- JavaScript
 
-**Prerequisites:**  Node.js
+### Backend
+- Node.js
+- Express.js
 
+### Database
+- MongoDB
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## How to Run
+
+### Frontend
+```bash
+npm install
+npm start
