@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard",
+  "description": "AI-Powered Disaster Response & Recovery System for emergency coordination and risk assessment.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
